@@ -88,7 +88,7 @@ The system supports attendance tracking, shift scheduling, department management
 
 ### Backend
 
-- Laravel 11
+- Laravel 13
 - PHP
 
 ### Database
