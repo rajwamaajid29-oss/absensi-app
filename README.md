@@ -203,43 +203,39 @@ http://127.0.0.1:8000
 ## Dashboard
 
 <p align="center">
-    <img src="Screenshot 2026-05-26 214415.png" width="900">
+    <img src="absensi-skill\SS\Screenshot 2026-05-26 214415.png" width="900">
 </p>
 
 ## Employess
 
 <p align="center">
-    <img src="Screenshot 2026-05-26 215002.png" width="900">
+    <img src="absensi-skill\SS\Screenshot 2026-05-26 215002.png" width="900">
 </p>
 
-## Attendance Page
 
-<p align="center">
-    <img src="public/screenshots/attendance.png" width="900">
-</p>
 
 ## Check In Page
 
 <p align="center">
-    <img src="Screenshot 2026-05-26 215201.png" width="900">
+    <img src="absensi-skill\SS\Screenshot 2026-05-26 215201.png" width="900">
 </p>
 
 ## Shift Manajement
 
 <p align="center">
-    <img src="Screenshot 2026-05-26 215007.png" width="900">
+    <img src="absensi-skill\SS\Screenshot 2026-05-26 215007.png" width="900">
 </p>
 
 ## Departemen
 
 <p align="center">
-    <img src="Screenshot 2026-05-26 215015.png" width="900">
+    <img src="absensi-skill\SS\Screenshot 2026-05-26 215015.png" width="900">
 </p>
 
 ## Riwayat Absen
 
 <p align="center">
-    <img src="Screenshot 2026-05-26 215022.png" width="900">
+    <img src="absensi-skill\SS\Screenshot 2026-05-26 215022.png" width="900">
 </p>
 
 ---
