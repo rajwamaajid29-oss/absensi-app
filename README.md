@@ -143,7 +143,7 @@ git clone https://github.com/USERNAME/absensi-app.git
 Open project:
 
 ```bash
-cd attendance-system
+cd absensi-app
 ```
 
 Install backend dependencies:
