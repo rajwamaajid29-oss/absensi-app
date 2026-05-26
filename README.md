@@ -251,7 +251,7 @@ MySQL
 Import SQL:
 
 ```bash
-skill_village_attendance.sql
+absensi-skill.sql
 ```
 
 ---
