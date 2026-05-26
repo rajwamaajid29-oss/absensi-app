@@ -137,7 +137,7 @@ attendance-system/
 Clone repository:
 
 ```bash
-git clone https://github.com/USERNAME/attendance-system.git
+git clone https://github.com/USERNAME/absensi-app.git
 ```
 
 Open project:
