@@ -145,8 +145,6 @@ Route::middleware(['auth'])->group(function () {
     |--------------------------------------------------------------------------
     */
 
-    Route::get(
-        '/activity-logs',
-        [ActivityLogController::class, 'index']
-    );
+ Route::get('/activity-logs', [ActivityLogController::class, 'index'])
+    ->name('activity.logs');
 });
